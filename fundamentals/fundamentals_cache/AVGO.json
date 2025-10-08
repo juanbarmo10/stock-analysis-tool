@@ -1,0 +1,21 @@
+{
+  "symbol": "AVGO",
+  "CompanyName": "Broadcom Inc.",
+  "Sector": "Technology",
+  "Industry": "Semiconductors",
+  "MarketCap": 1597906616320,
+  "Price": 338.37,
+  "PE": 86.98457,
+  "ForwardPE": 54.841164,
+  "PB": 5.7136827,
+  "PS": 26.664663,
+  "ROE": 0.27083,
+  "ROA": 0.08895001,
+  "DebtToEquity": 166.032,
+  "ProfitMargin": 0.31592,
+  "OperatingMargin": 0.31765,
+  "GrossMargin": 0.77185,
+  "RevenueGrowth": 0.164,
+  "EarningsGrowth": 1.881,
+  "FCF": 23096750080
+}

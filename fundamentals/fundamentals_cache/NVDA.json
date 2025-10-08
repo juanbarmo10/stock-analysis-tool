@@ -1,0 +1,21 @@
+{
+  "symbol": "NVDA",
+  "CompanyName": "NVIDIA Corporation",
+  "Sector": "Technology",
+  "Industry": "Semiconductors",
+  "MarketCap": 4567983980544,
+  "Price": 187.62,
+  "PE": 53.45299,
+  "ForwardPE": 45.538834,
+  "PB": 45.616337,
+  "PS": 27.648224,
+  "ROE": 1.09417,
+  "ROA": 0.53094,
+  "DebtToEquity": 10.584,
+  "ProfitMargin": 0.52414,
+  "OperatingMargin": 0.60842997,
+  "GrossMargin": 0.69847,
+  "RevenueGrowth": 0.556,
+  "EarningsGrowth": 0.612,
+  "FCF": 52436750336
+}
